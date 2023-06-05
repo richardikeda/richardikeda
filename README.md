@@ -2,6 +2,9 @@
 <h3 align="center">Sage X3 Developer</h3>
 <div>
 <p>Greetings!</p>
+<div>
+<img align="right" src="./octocat-1685940503132.png" alt="richardikeda"  width="300" align="left" />
+ 
 <p>I'm Richard Ikeda, the founder of <a href="https://enterscript.com/" target="blank">Enter Script</a>, a company specializing in enhancing ERP systems and developing APIs. With a strong focus on customized solutions, my mission is to help companies optimize their software management processes.</p>
 <p>I provide consultancy services for ERP implementation, including SAGE X3, enabling clients to maximize the potential of their business management tools.</p>
 <p>With a degree in Internet Systems Technology and additional studies in Mobile Applications and Cloud Computing, I continuously update my skills to stay ahead of emerging trends.</p>
@@ -10,6 +13,7 @@
 </div>
 <p align="left"> <a href="https://twitter.com/richardikeda" target="blank"><img src="https://img.shields.io/twitter/follow/richardikeda?logo=twitter&style=for-the-badge" alt="richardikeda" /></a>
 </p>
+</div>
 
 - 🔭 I’m currently working on [No X3 Language Plugin](https://github.com/richardikeda/nox3-language-plugin)
 
