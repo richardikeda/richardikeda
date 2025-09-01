@@ -1,131 +1,73 @@
-<h1 align="center">Hi 👋, I'm Richard Ikeda</h1>
-<h3 align="center">Sage X3 Developer</h3>
-
-<p>Greetings!</p>
-
-<img align="right" src="./octocat-1685940503132.png" alt="richardikeda"  width="300" />
- 
-<p>I'm Richard Ikeda, the founder of <a href="https://enterscript.com/" target="blank">Enter Script</a>, a company specializing in enhancing ERP systems and developing APIs. With a strong focus on customized solutions, my mission is to help companies optimize their software management processes.</p>
-<p>I provide consultancy services for ERP implementation, including SAGE X3, enabling clients to maximize the potential of their business management tools.</p>
-<p>With a degree in Internet Systems Technology and additional studies in Mobile Applications and Cloud Computing, I continuously update my skills to stay ahead of emerging trends.</p>
-<p>In my recent role at SAGE, I strengthened my expertise in analysis and development while working on the Sage X3 ERP and implementing Brazilian legislation.</p>
-<p>Feel free to connect with me on social media for any inquiries or collaboration opportunities. I'm always eager to engage in meaningful discussions and address any questions you may have.</p>
-	
-<p align="left"> 
-	<a href="https://twitter.com/richardikeda" target="blank">
-		<img src="https://img.shields.io/twitter/follow/richardikeda?logo=twitter&style=for-the-badge" alt="richardikeda" />
-	</a>
+<h1 align="center">Hi there 👋, I'm Richard Ikeda</h1>
+<h3 align="center">Solutions Architect & ERP Modernization Specialist</h3>
+<p align="center">
+<img src="./octocat-1685940503132.png" alt="richardikeda"  width="300" />
 </p>
 
-- 🔭 I’m currently working on [No X3 Language Plugin](https://github.com/richardikeda/nox3-language-plugin)
 
-- 🌱 I’m currently learning **Kotlin, React, Unity**
 
-- 📝 I regularly write articles on [https://richardikeda.com](https://richardikeda.com)
+<h2>Overview & Value Proposition</h2>
 
-- 📫 How to reach me **richard@enterscript.com**
+<p>My mission is to empower companies to streamline their business processes and achieve maximum efficiency through tailored software solutions. As the founder of <a href="https://enterscript.com/" target="_blank">Enter Script</a>, I specialize in the architecture, development, and integration of ERP systems, with a core focus on <b>SAGE X3.</b></p>
+<p>My technical expertise is global. I have worked on the implementation of complex solutions in several countries, including Portugal, Canada, Peru, Argentina, and Brazil, with a proven track record in developing robust APIs and applying regulatory requirements from different legislations in Latin America and international projects.</p>
+<p>I possess a strong technical background in Internet Systems Technology, with continuous professional development in Mobile Applications and Cloud Computing. My expertise includes implementing complex ERP solutions, developing robust APIs, and applying legislations requirements in corporate environments.</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/richardikeda/](https://www.linkedin.com/in/richardikeda/)
+<h2>Featured Projects & Contributions</h2>
 
-<h3 align="left">Connect with me:</h3>
+🔭 No X3 Language Plugin (In development): A project I developed to enhance the programming experience in Sage X3, improving developer productivity and code quality. <a href="https://github.com/richardikeda/nox3-language-plugin" target="_blank">[View Project]</a>
+
+<h2>Core Skills & Tools</h2>
+<p align="center">
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a><br/>
+<a href="https://enterscript.com/sage-x3-a-solucao-completa-para-sua-empresa.html" target="_blank">	<img src="./sage-x3-logo_2023.png" alt="Sage X3 ERP about" width="250" /></a>
+</p>
+
+
+<h2>Continuous Growth & Learning</h2>
+<p>🌱 Currently Learning: Kotlin, React, and Unity, with a focus on how these technologies can modernize and extend the functionality of legacy and ERP systems.</p>
+<p>📝 Content Creation: I regularly write articles about technology and business solutions on my company site. <a href="https://enterscript.com" target="_blank">[enterscript.com]</a></p>
+
+<h2>Let's Connect & Collaborate</h2>
+
+<p>I'm always open to collaboration opportunities, discussions about new technologies, and strategic partnerships.</p>
+
 <p align="left">
 	<a href="https://twitter.com/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richardikeda" height="30" width="40" /></a>
 	<a href="https://linkedin.com/in/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardikeda" height="30" width="40" /></a>
 	<a href="https://stackoverflow.com/users/3249373/richard-ikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="richardikeda" height="30" width="40" /></a>
-	<a href="https://fb.com/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richardikeda" height="30" width="40" /></a>
+	<!--a href="https://fb.com/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richardikeda" height="30" width="40" /></a-->
 	<a href="https://instagram.com/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardikeda" height="30" width="40" /></a>
-	<a href="https://www.youtube.com/c/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richardikeda" height="30" width="40" /></a>
+	<!--a href="https://www.youtube.com/c/richardikeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richardikeda" height="30" width="40" /></a-->
+<h3>Contact</h3>
+- 📫 How to reach me **richard@enterscript.com**
+
+</p>
+<h2>My GitHub Performance</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardikeda&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardikeda&theme=dark" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools that I love:</h3>
-<p align="left">
-	<a href="https://enterscript.com/sage-x3-a-solucao-completa-para-sua-empresa.html" target="_blank">
-		<img src="./sage-x3-logo_2023.png" alt="Sage X3 ERP about" width="250" />
-	</a>
-</p>
-<p align="left">
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-	</a>
-	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	</a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-</p>
-<p align="left">
-	<a href="https://graphql.org" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	</a>
-	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-	</a>
-	<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a>
-</p>
-<p align="left">
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-	</a>
-	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-	</a>
-	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-	</a>
-	<a href="https://www.php.net" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-	</a>
-</p>
-<p align="left">
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-	</a>
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-	</a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-	</a>
-	<a href="https://unity.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-	</a>
-</p>
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardikeda&show_icons=true&theme=dark&locale=en&layout=compact" alt="richardikeda" />
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardikeda&theme=dark" alt="richardikeda" /><br></p>
+
   <!--div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardikeda&show_icons=true&theme=dark&locale=en" alt="richardikeda" /><br></p></div>
   <div></div-->
