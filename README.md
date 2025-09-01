@@ -69,6 +69,7 @@
 </p>
 
 <h2>For fun</h2>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2253jwm2kyubpynckjve7dwza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1c87ca&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2253jwm2kyubpynckjve7dwza&redirect=true)
 
   <!--div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardikeda&show_icons=true&theme=dark&locale=en" alt="richardikeda" /><br></p></div>
