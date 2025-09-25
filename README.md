@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Richard Ikeda</h1>
 <h3 align="center">Solutions Architect & ERP Modernization Specialist</h3>
 <p align="center">
-<img src="./octocat-1685940503132.png" alt="richardikeda"  width="300" />
+<img src="./octocat-3d.png" alt="richardikeda"  width="300" />
 </p>
 
 
