@@ -14,7 +14,9 @@
 
 <h2>Featured Projects & Contributions</h2>
 
-🔭 No X3 Language Plugin (In development): A project I developed to enhance the programming experience in Sage X3, improving developer productivity and code quality. <a href="https://github.com/richardikeda/nox3-language-plugin" target="_blank">[View Project]</a>
+🔭 ~~No X3 Language Plugin (In development): A project I developed to enhance the programming experience in Sage X3, improving developer productivity and code quality. <a href="https://github.com/richardikeda/nox3-language-plugin" target="_blank">[View Project]</a>~~
+🔭 I was working on the plugin for 4GL language support for Sage X3 in IntelliJ, but I couldn't give that project the attention it deserved. So I migrated all the knowledge to a second plugin that I'm developing for VS Code, with 4GL language support, connection to Sage X3, compilation, and maybe an attached debugger, with code organization and correction.
+I will soon open the repository for anyone interested in using it; I'm already testing it in my Sage X3 projects, and it seems quite coherent.
 
 <h2>Core Skills & Tools</h2>
 <p align="center">
