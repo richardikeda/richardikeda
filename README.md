@@ -73,3 +73,4 @@ I'm open to conversations about Sage X3, ERP integrations, software projects and
 ## For fun 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2253jwm2kyubpynckjve7dwza&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=1c87ca&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2253jwm2kyubpynckjve7dwza&redirect=true)
+
